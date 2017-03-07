@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b371b24ed4ffb24b83d5f4cf124efcb
+timeCreated: 1465879197
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_pausePic: {fileID: 2800000, guid: 9b2029ed031a4664cacf85bfa68223f4, type: 3}
+  - m_resumePic: {fileID: 2800000, guid: d1b73e67de17fab41b61be6a6699c58f, type: 3}
+  - m_backToMenuPic: {fileID: 2800000, guid: a2d6280f850704245b71e69c9c71de5b, type: 3}
+  - m_overPic: {fileID: 2800000, guid: 00a7bba3ba89d39498d348b178cdc400, type: 3}
+  - m_tryAgainPic: {fileID: 2800000, guid: 8b39320c42d3b964c89905216efae8f8, type: 3}
+  - m_stageClearPic: {fileID: 2800000, guid: 1d77310e34b46ae419be7c384bec61c6, type: 3}
+  - m_stageClearInfoPic: {fileID: 2800000, guid: 58ef6e7d8e5958a46a4c08b902d2d23a,
+      type: 3}
+  - m_customSkin: {fileID: 11400000, guid: ef554b23d43136940b918794928a6a0a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
